@@ -11,8 +11,8 @@ the everyday problems in front of us, starting in Uganda and built to travel.
 - **Product studio** — small tools built from problems we've lived with directly
 
 ## Selected work
-- [Strive Bridge Africa Foundation Limited](https://github.com/<your-personal-username>/sbafl) — contract website
-- [Makerere Christian Union Fellowship](https://github.com/<your-personal-username>/mcuf) — campus fellowship website
+- [Strive Bridge Africa Foundation Limited](https://strivebridgeafrica.org/) — contract website
+- [Makerere Christian Union Fellowship](https://github.com/DANIEL-CHRISTIAN-KIZITO/makcu-website) — campus fellowship website
 
 ## In the lab
 Service & Roster Planner · Fundraising Appeal Builder · Church Giving & Pledge
