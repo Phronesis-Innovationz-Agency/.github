@@ -12,7 +12,7 @@ the everyday problems in front of us, starting in Uganda and built to travel.
 
 ## Selected work
 - [Strive Bridge Africa Foundation Limited](https://strivebridgeafrica.org/) — contract website
-- [Makerere Christian Union Fellowship]([https://github.com/DANIEL-CHRISTIAN-KIZITO/makcu-website](https://makcu-website.onrender.com/) — campus fellowship website
+- [Makerere Christian Union Fellowship](https://makcu-website.onrender.com/) — campus fellowship website
 
 ## In the lab
 Service & Roster Planner · Fundraising Appeal Builder · Church Giving & Pledge
